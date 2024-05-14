@@ -1,2 +1,2 @@
-quali.red <- read.csv("workspace/git_workshop/data/winequality-red.csv", sep = ';')
-quali.white <- read.csv("workspace/git_workshop/data/winequality-white.csv", sep = ';')
+quali.red <- read.csv("data/winequality-red.csv", sep = ';')
+quali.white <- read.csv("data/winequality-white.csv", sep = ';')
