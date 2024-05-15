@@ -38,6 +38,3 @@ server <- function(input, output) {
     
   })
 }
-
-
-
